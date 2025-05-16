@@ -22,7 +22,9 @@ statically typed lang
 
 dynamically typed vs statically 
 
-dynamically typed (JS)
+dynamically typed (JS) :- Datatype of the language is decided at runtime
+example- javascript and swift
+
 
 let x=10;
 x = "hello";
@@ -41,7 +43,8 @@ x="hello";
 Strongly Types vs Weaky Typed 
 
 
-A strongly typed language enforces strict rules about how you use variables of different types. You can’t mix types freely without explicitly converting them.
+A strongly typed language enforces strict rules about how you use variables of different types.
+You can’t mix types freely without explicitly converting them.
 
 
 
